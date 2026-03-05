@@ -1,0 +1,111 @@
+{
+  "basics": {
+    "name": "Ishani Kapoor",
+    "title": "Full-stack Developer | BIT'24 | KIIT'26",
+"summary": "I am an ambitious and hardworking individual, with broad skills in programming, database and designing websites, seeking to leverage programming skills in a challenging IT role. My strength is communication, building relationships in order to deliver my best . I am focused on utilizing my skills to contribute to meaningful projects ,learn from experienced professionals, and grow in the field of Software Engineering",
+    "location": "Bhubaneshwar, Odisha, India",
+    "email": "kapoorishani98@gmail.com",
+    "links": [
+      { "label": "LinkedIn", "url": "https://www.linkedin.com/in/ishani-kapoor-3bb790236" }
+    ]
+  },
+  "experience": [
+    {
+      "company": "ignisverbi",
+      "role": "Full-stack Developer",
+      "dates": "April 2025 - June 2025",
+      "location": "Bhubaneshwar, Odisha, India",
+      "duration": "3 months",
+      "bullets": ["Full-stack development using modern web technologies."]
+    },
+    {
+      "company": "Oasis Infobyte",
+      "role": "Web Developer",
+      "dates": "July 2023 - August 2023",
+      "location": "Remote",
+      "duration": "2 months",
+      "bullets": ["Web development and UI/UX implementation."]
+    }
+  ],
+  "skills": [
+    { "name": "HTML5", "category": "Frontend" },
+    { "name": "Django", "category": "Backend" },
+    { "name": "Databases", "category": "Data" },
+    { "name": "Javascript", "category": "Backend" },
+    { "name": "Java", "category": "Language" },
+    { "name": "AWS", "category": "Cloud" },
+    { "name": "TailwindCSS", "category": "Frontend" },
+    { "name": "Python", "category": "Language" }
+  ],
+  "education": [
+    {
+      "institution": "Kalinga Institute of Industrial Technology, Bhubaneswar",
+      "degree": "Master of Computer Applications - MCA",
+      "dates": "August 2024 - 2026",
+      "details": "Specializing in Computer Application"
+    },
+    {
+      "institution": "Birla Institute of Technology, Mesra",
+      "degree": "Bachelor of Computer Application - BCA",
+      "dates": "August 2021 - May 2024",
+      "details": "Computer Application"
+    },
+    {
+      "institution": "MK DAV Public School, Daltonganj",
+      "degree": "Senior Secondary Education",
+      "dates": "2021 ",
+      "details": "XII|PCM"
+    },
+    {
+      "institution": "MK DAV Public School, Daltonganj",
+      "degree": "High School",
+      "dates": "2019",
+      "details": "X"
+    }
+  ],
+    "projects": [
+    {
+      "title": "Mentora",
+      "stack": ["NextJS", "ShadcnUI", "Prisma", "Tailwind CSS", "clerk", "Inngest","GeminiAPI"],
+      "bullets": [
+        
+"Designed and implemented a personalized onboarding workflow that collects user career preferences, skills, and goals to generate customized industry insights and recommendations.",
+
+"Built an AI-powered Resume Builder using Gemini-2, enabling users to automatically generate professional, ATS-friendly resumes tailored to their skills and experience.",
+
+"Developed an AI-generated Cover Letter Generator that creates personalized cover letters based on job roles and user profiles.",
+
+"Engineered a Mock Test and Quiz System that dynamically generates assessments using AI based on the user’s selected skills and career interests.",
+
+"Implemented secure authentication and user management using Clerk, providing protected dashboards and personalized user experiences.",
+
+"Designed the system architecture and database schema using PostgreSQL and Prisma ORM to efficiently manage user profiles, generated content, and assessment data.",
+
+"Integrated Inngest workflows to periodically fetch and update industry insights and career data, ensuring users receive updated guidance.",
+
+"Built a responsive and modern UI using Next.js App Router and TailwindCSS, optimizing performance and scalability.",
+
+"Deployed the full-stack application on Vercel with server-side actions for efficient backend processing.",
+
+"Outcome / Impact:",
+
+"Provides an end-to-end AI career assistance platform that helps users plan careers, prepare job documents, and evaluate skills in one unified system.",
+
+"Demonstrates expertise in AI integration, full-stack development, authentication systems, and scalable web architecture"
+      ],
+      "link": "https://mentora-gold-psi.vercel.app/"
+    },
+    {
+      "title": "QueryGrid AI Tool",
+      "stack": ["Next.js", "Tailwind CSS", " MongoDB"],
+"bullets": [
+  "Developed a modern, full-stack web application with a real-time chat interface and deploying the entire application on Vercel.",
+  "Frontend: Responsive UI using Next.js and Tailwind CSS.",
+  "Backend: Authentication and API routes in Next.js.",
+  "Database: Scalable data storage with MongoDB.",
+  "Features: Search functionality, user authentication, optimized performance."
+]
+    }
+  ],
+  "extra": ["BIT'24|KIIT'26"]
+}
