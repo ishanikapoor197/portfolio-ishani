@@ -1,95 +1,94 @@
+# 🌐 Personal Portfolio Website
 
-# 🌐 Personal Portfolio
+This repository contains the source code for my **personal developer portfolio website**, where I showcase my projects, technical skills, and development journey. The portfolio serves as a central place for recruiters, collaborators, and visitors to explore my work and learn more about me as a developer.
 
-This repository contains the source code for my **personal developer portfolio website**.
-The portfolio highlights my **projects, technical skills, and development experience**, and serves as a central platform where recruiters, collaborators, and visitors can explore my work.
-
-🔗 **Live Demo:**
-https://ais-dev-s3bsst3n37hnhoftzxa4wg-621540807844.asia-southeast1.run.app/
+🔗 **Live Website:**
+https://portfolio-ishani.vercel.app/
 
 ---
 
-## 🚀 About the Project
+# 🚀 About the Project
 
-The portfolio website is designed to present my **professional profile and development journey** in a clean and interactive way. It showcases the projects I have built, the technologies I work with, and provides an easy way for people to connect with me.
+This portfolio website is designed to present my **professional profile, projects, and technical expertise** in a modern and interactive way. It highlights my work in software development and provides an easy way for visitors to connect with me.
 
-The goal of this project is to create a **modern, responsive, and user-friendly portfolio** that reflects my skills as a developer.
+The site includes sections such as **About Me, Skills, Projects, and Contact**, allowing users to quickly understand my capabilities and experience as a developer.
 
 ---
 
-## ✨ Features
+# ✨ Features
 
-* 👤 Personal introduction section
-* 💻 Projects showcase with descriptions
-* 🧠 Skills and technologies section
-* 📄 Resume / professional information
+* 👩‍💻 Personal introduction and developer profile
+* 💼 Projects showcase with descriptions
+* 🧠 Technical skills and technologies section
+* 📱 Fully responsive design for desktop and mobile
 * 📬 Contact section for communication
-* 📱 Fully responsive design for all devices
+* 🎨 Clean and modern UI design
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-The portfolio is built using modern web technologies:
+This portfolio was built using modern web development technologies:
 
-* **Frontend:** Next.js / React
-* **Styling:** Tailwind CSS
-* **Deployment:** Google Cloud Run
+* **Frontend:** React / Next.js
+* **Styling:** Tailwind CSS / CSS
+* **Deployment:** Vercel
 * **Version Control:** Git & GitHub
 
 ---
 
-## 📂 Project Structure
+# 📂 Project Structure
 
 ```
 portfolio/
 │
-├── components/      # Reusable UI components
-├── pages / app/     # Application pages
-├── public/          # Static assets
-├── styles/          # Global styles
+├── components/        # Reusable UI components
+├── pages / app/       # Website pages
+├── public/            # Images and static assets
+├── styles/            # Styling files
 └── README.md
 ```
 
 ---
 
-## ⚙️ Installation & Setup
+# ⚙️ Getting Started
 
-To run the project locally:
+To run this project locally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://github.com/your-username/portfolio-repo.git
 
-# Navigate to project folder
-cd your-repo-name
+# Navigate to the project directory
+cd portfolio-repo
 
 # Install dependencies
 npm install
 
-# Run the development server
+# Start development server
 npm run dev
 ```
 
-Open **http://localhost:3000** in your browser.
+Open **http://localhost:3000** to view the website locally.
 
 ---
 
-## 📌 Purpose of This Project
+# 📌 Purpose of This Project
 
-This portfolio acts as my **digital professional profile**, allowing visitors to:
+The goal of this portfolio is to:
 
-* View my projects and technical work
-* Understand my skills and technologies
-* Learn about my development journey
-* Contact me for opportunities or collaborations
-
----
-
-## 📬 Contact
-
-If you would like to connect, collaborate, or discuss opportunities, feel free to reach out.
+* Present my **projects and technical work**
+* Showcase my **skills and experience**
+* Provide a **digital professional presence**
+* Make it easy for recruiters and collaborators to connect with me
 
 ---
 
-⭐ If you like this project, consider giving the repository a star!
+# 📬 Contact
+
+If you would like to connect or collaborate, feel free to reach out through the contact section of the portfolio.
+
+---
+
+⭐ If you like this project, consider giving the repository a **star**!
+
