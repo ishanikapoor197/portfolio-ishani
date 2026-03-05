@@ -3,11 +3,6 @@
 This repository contains the source code for my **personal developer portfolio website**.
 The portfolio highlights my **projects, technical skills, and development experience**, and serves as a central platform where recruiters, collaborators, and visitors can explore my work.
 
-🔗 **Live Demo:**
-https://ais-dev-s3bsst3n37hnhoftzxa4wg-621540807844.asia-southeast1.run.app/
-
----
-
 ## 🚀 About the Project
 
 The portfolio website is designed to present my **professional profile and development journey** in a clean and interactive way. It showcases the projects I have built, the technologies I work with, and provides an easy way for people to connect with me.
