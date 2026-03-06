@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ishanikapoor.github.io/portfolio-ishani",
+  "homepage": "https://ishanikapoor197.github.io/portfolio-ishani/",
   "scripts": {
     "dev": "tsx server.ts",
     "build": "vite build",
